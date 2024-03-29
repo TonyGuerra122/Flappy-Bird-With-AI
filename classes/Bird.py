@@ -1,5 +1,5 @@
 import pygame
-from utils import get_image
+from functions.utils import get_image
 
 class Bird:
     IMAGES = [get_image('bird1.png', True), get_image('bird2.png', True), get_image('bird3.png', True)]

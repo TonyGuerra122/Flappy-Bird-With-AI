@@ -1,4 +1,4 @@
-from utils import get_image
+from functions.utils import get_image
 
 class Ground:
     IMAGE = get_image('base.png', True)

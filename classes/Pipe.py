@@ -1,6 +1,6 @@
 import pygame
 import random
-from utils import get_image
+from functions.utils import get_image
 
 class Pipe:
     DISTANCE = 200
