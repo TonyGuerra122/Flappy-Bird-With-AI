@@ -6,7 +6,7 @@ Inicie o jogo executando `python main.py` no terminal. Use as teclas de seta par
 ## Construído com
 
 - [Pygame](https://www.pygame.org/news) - A biblioteca usada para criar o jogo.
-- [NEAT](https://neat-python.readthedocs.io/en/latest/) - A biblioteca usada para algoritmo de Intelingência Artificial
+- [NEAT](https://neat-python.readthedocs.io/en/latest/) - A biblioteca usada para algoritmo de Inteligência Artificial
 
 ## Autores
 
